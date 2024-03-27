@@ -1,0 +1,38 @@
+{
+  "name": "cyto-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-layout.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-layout/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-layout#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "cross-env": "^7.0.3",
+    "cytoscape": "^3.28.1",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-string": "^1.0.7",
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "querystring": "^0.2.1",
+    "vue": "^3.4.21",
+    "is-base": "^1.0.0",
+    "thisispro": "^1.0.0",
+    "isuse": "^1.0.0",
+    "cyto": "^1.0.0",
+    "cyto-op": "^1.0.0",
+    "cyto-style": "^1.0.0",
+    "cyto-element": "^1.0.0"
+  }
+}
